@@ -1,0 +1,22 @@
+# Vision / DL
+ultralytics
+opencv-python
+pillow
+numpy
+pandas
+
+# Backend
+fastapi
+uvicorn
+python-multipart
+
+# ML utilities
+scikit-learn
+fuzzywuzzy
+Levenshtein
+
+# Misc
+requests
+python-dotenv
+jupyter
+notebook
