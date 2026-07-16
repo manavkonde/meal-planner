@@ -1,0 +1,82 @@
+label_1,dataset_1,label_2,dataset_2,similarity
+Apple Red Yellow 1,fruits360,Apple Red Yellow 2,fruits360,94
+Arla-Ecological-Medium-Fat-Milk,grocery,Garant-Ecological-Medium-Fat-Milk,grocery,94
+Apple Golden 1,fruits360,Apple Golden 2,fruits360,93
+Apple Golden 1,fruits360,Apple Golden 3,fruits360,93
+Apple Golden 2,fruits360,Apple Golden 3,fruits360,93
+Cucumber Ripe,fruits360,Cucumber Ripe 2,fruits360,93
+Cantaloupe 1,fruits360,Cantaloupe 2,fruits360,92
+Grape White,fruits360,Grape White 2,fruits360,92
+Grape White,fruits360,Grape White 3,fruits360,92
+Grape White,fruits360,Grape White 4,fruits360,92
+Grape White 2,fruits360,Grape White 3,fruits360,92
+Grape White 2,fruits360,Grape White 4,fruits360,92
+Grape White 3,fruits360,Grape White 4,fruits360,92
+Apple Red 1,fruits360,Apple Red 2,fruits360,91
+Apple Red 1,fruits360,Apple Red 3,fruits360,91
+Apple Red 2,fruits360,Apple Red 3,fruits360,91
+Cantaloupe 1,fruits360,Cantaloupe,grocery,91
+Cantaloupe 2,fruits360,Cantaloupe,grocery,91
+God-Morgon-Orange-Red-Grapefruit-Juice,grocery,God-Morgon-Red-Grapefruit-Juice,grocery,90
+Limes,fruits360,Lime,grocery,89
+Cherry 1,fruits360,Cherry 2,fruits360,88
+Tomato 1,fruits360,Tomato 2,fruits360,88
+Tomato 1,fruits360,Tomato 3,fruits360,88
+Tomato 1,fruits360,Tomato 4,fruits360,88
+Tomato 2,fruits360,Tomato 3,fruits360,88
+Tomato 2,fruits360,Tomato 4,fruits360,88
+Tomato 3,fruits360,Tomato 4,fruits360,88
+Green-Bell-Pepper,grocery,Red-Bell-Pepper,grocery,88
+Tomato 1,fruits360,Tomato,fridge_objects,86
+Tomato 2,fruits360,Tomato,fridge_objects,86
+Tomato 3,fruits360,Tomato,fridge_objects,86
+Tomato 4,fruits360,Tomato,fridge_objects,86
+Alpro-Fresh-Soy-Milk,grocery,Alpro-Shelf-Soy-Milk,grocery,85
+Orange-Bell-Pepper,grocery,Red-Bell-Pepper,grocery,85
+Alpro-Vanilla-Soyghurt,grocery,Valio-Vanilla-Yoghurt,grocery,84
+God-Morgon-Apple-Juice,grocery,God-Morgon-Orange-Juice,grocery,84
+Peach,fruits360,Peach 2,fruits360,83
+Plum 2,fruits360,Plum 3,fruits360,83
+Arla-Lactose-Medium-Fat-Milk,grocery,Arla-Medium-Fat-Milk,grocery,83
+Arla-Mild-Vanilla-Yoghurt,grocery,Valio-Vanilla-Yoghurt,grocery,83
+Pepper Green,fruits360,Pepper Red,fruits360,82
+Apple Red Delicious,fruits360,Red-Delicious,grocery,81
+Grape White,fruits360,Grapefruit White,fruits360,81
+Arla-Natural-Yoghurt,grocery,Oatly-Natural-Oatghurt,grocery,81
+Valio-Vanilla-Yoghurt,grocery,Yoggi-Vanilla-Yoghurt,grocery,81
+Apple Granny Smith,fruits360,Granny-Smith,grocery,80
+Grape Pink,fruits360,Grapefruit Pink,fruits360,80
+Pear,fruits360,Pear 2,fruits360,80
+Plum,fruits360,Plum 2,fruits360,80
+Plum,fruits360,Plum 3,fruits360,80
+Bravo-Apple-Juice,grocery,Bravo-Orange-Juice,grocery,80
+Green-Bell-Pepper,grocery,Orange-Bell-Pepper,grocery,80
+Red-Bell-Pepper,grocery,Yellow-Bell-Pepper,grocery,79
+Nectarine,fruits360,Nectarine Flat,fruits360,78
+Pear Red,fruits360,Pepper Red,fruits360,78
+Pepper Orange,fruits360,Pepper Red,fruits360,78
+Pineapple,fruits360,Pineapple Mini,fruits360,78
+Arla-Ecological-Medium-Fat-Milk,grocery,Arla-Lactose-Medium-Fat-Milk,grocery,78
+Arla-Ecological-Medium-Fat-Milk,grocery,Arla-Medium-Fat-Milk,grocery,78
+Garant-Ecological-Medium-Fat-Milk,grocery,Garant-Ecological-Standard-Milk,grocery,78
+Cherry Wax Red,fruits360,Cherry Wax Yellow,fruits360,77
+Grapefruit Pink,fruits360,Grapefruit White,fruits360,77
+Peach 2,fruits360,Pear 2,fruits360,77
+Strawberry,fruits360,Strawberry Wedge,fruits360,77
+Apple Red 1,fruits360,Apple Red Yellow 1,fruits360,76
+Apple Red 2,fruits360,Apple Red Yellow 2,fruits360,76
+Cucumber Ripe,fruits360,Cucumber,grocery,76
+Grape White 2,fruits360,Grapefruit White,fruits360,76
+Grape White 3,fruits360,Grapefruit White,fruits360,76
+Grape White 4,fruits360,Grapefruit White,fruits360,76
+Arla-Sour-Cream,grocery,Arla-Sour-Milk,grocery,76
+Golden-Delicious,grocery,Red-Delicious,grocery,76
+Apple Pink Lady,fruits360,Pink-Lady,grocery,75
+Banana,fruits360,Banana Red,fruits360,75
+Potato Red,fruits360,Potato,fridge_objects,75
+Potato Sweet,fruits360,Potato White,fruits360,75
+Arla-Medium-Fat-Milk,grocery,Garant-Ecological-Medium-Fat-Milk,grocery,75
+Arla-Natural-Mild-Low-Fat-Yoghurt,grocery,Arla-Natural-Yoghurt,grocery,75
+Arla-Sour-Milk,grocery,Arla-Standard-Milk,grocery,75
+God-Morgon-Apple-Juice,grocery,God-Morgon-Red-Grapefruit-Juice,grocery,75
+God-Morgon-Orange-Juice,grocery,God-Morgon-Orange-Red-Grapefruit-Juice,grocery,75

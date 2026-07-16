@@ -1,0 +1,41 @@
+class_name,description,calories,protein,carbs,fat,source,notes
+apple,"Apples, raw, with skin",52,0.26,13.81,0.17,Manual USDA-style fallback,Per 100g edible portion
+apricot,"Apricots, raw",48,1.4,11.12,0.39,Manual USDA-style fallback,Per 100g edible portion
+avocado,"Avocados, raw",160,2.0,8.53,14.66,Manual USDA-style fallback,Per 100g edible portion
+banana,"Bananas, raw",89,1.09,22.84,0.33,Manual USDA-style fallback,Per 100g edible portion
+beetroot,"Beets, raw",43,1.61,9.56,0.17,Manual USDA-style fallback,Per 100g edible portion
+bell_pepper,"Peppers, sweet, green, raw",20,0.86,4.64,0.17,Manual USDA-style fallback,Per 100g edible portion
+blueberry,"Blueberries, raw",57,0.74,14.49,0.33,Manual USDA-style fallback,Per 100g edible portion
+bread,"Bread, white, commercially prepared",265,9.0,49.0,3.2,Manual USDA-style fallback,Per 100g edible portion
+cabbage,"Cabbage, raw",25,1.28,5.8,0.1,Manual USDA-style fallback,Per 100g edible portion
+carrot,"Carrots, raw",41,0.93,9.58,0.24,Manual USDA-style fallback,Per 100g edible portion
+cauliflower,"Cauliflower, raw",25,1.92,4.97,0.28,Manual USDA-style fallback,Per 100g edible portion
+cherry,"Cherries, sweet, raw",63,1.06,16.01,0.2,Manual USDA-style fallback,Per 100g edible portion
+corn,"Corn, sweet, yellow, raw",86,3.27,18.7,1.35,Manual USDA-style fallback,Per 100g edible portion
+cucumber,"Cucumber, with peel, raw",15,0.65,3.63,0.11,Manual USDA-style fallback,Per 100g edible portion
+eggplant,"Eggplant, raw",25,0.98,5.88,0.18,Manual USDA-style fallback,Per 100g edible portion
+eggs,"Egg, whole, raw, fresh",143,12.56,0.72,9.51,Manual USDA-style fallback,Per 100g edible portion
+garlic,"Garlic, raw",149,6.36,33.06,0.5,Manual USDA-style fallback,Per 100g edible portion
+ginger,"Ginger root, raw",80,1.82,17.77,0.75,Manual USDA-style fallback,Per 100g edible portion
+grape,"Grapes, raw",69,0.72,18.1,0.16,Manual USDA-style fallback,Per 100g edible portion
+kiwi,"Kiwifruit, green, raw",61,1.14,14.66,0.52,Manual USDA-style fallback,Per 100g edible portion
+lemon,"Lemons, raw, without peel",29,1.1,9.32,0.3,Manual USDA-style fallback,Per 100g edible portion
+lime,"Limes, raw",30,0.7,10.54,0.2,Manual USDA-style fallback,Per 100g edible portion
+mango,"Mangos, raw",60,0.82,14.98,0.38,Manual USDA-style fallback,Per 100g edible portion
+milk,"Milk, whole, 3.25% milkfat",61,3.15,4.8,3.25,Manual USDA-style fallback,Per 100g edible portion
+mushroom,"Mushrooms, white, raw",22,3.09,3.26,0.34,Manual USDA-style fallback,Per 100g edible portion
+onion,"Onions, raw",40,1.1,9.34,0.1,Manual USDA-style fallback,Per 100g edible portion
+orange,"Oranges, raw",47,0.94,11.75,0.12,Manual USDA-style fallback,Per 100g edible portion
+peach,"Peaches, raw",39,0.91,9.54,0.25,Manual USDA-style fallback,Per 100g edible portion
+pear,"Pears, raw",57,0.36,15.23,0.14,Manual USDA-style fallback,Per 100g edible portion
+pineapple,"Pineapple, raw",50,0.54,13.12,0.12,Manual USDA-style fallback,Per 100g edible portion
+plum,"Plums, raw",46,0.7,11.42,0.28,Manual USDA-style fallback,Per 100g edible portion
+pomegranate,"Pomegranates, raw",83,1.67,18.7,1.17,Manual USDA-style fallback,Per 100g edible portion
+potato,"Potatoes, flesh and skin, raw",77,2.02,17.49,0.09,Manual USDA-style fallback,Per 100g edible portion
+raspberry,"Raspberries, raw",52,1.2,11.94,0.65,Manual USDA-style fallback,Per 100g edible portion
+spinach,"Spinach, raw",23,2.86,3.63,0.39,Manual USDA-style fallback,Per 100g edible portion
+strawberry,"Strawberries, raw",32,0.67,7.68,0.3,Manual USDA-style fallback,Per 100g edible portion
+tomato,"Tomatoes, red, ripe, raw",18,0.88,3.89,0.2,Manual USDA-style fallback,Per 100g edible portion
+watermelon,"Watermelon, raw",30,0.61,7.55,0.15,Manual USDA-style fallback,Per 100g edible portion
+yogurt,"Yogurt, plain, whole milk",61,3.47,4.66,3.25,Manual USDA-style fallback,Per 100g edible portion
+zucchini,"Squash, summer, zucchini, raw",17,1.21,3.11,0.32,Manual USDA-style fallback,Per 100g edible portion

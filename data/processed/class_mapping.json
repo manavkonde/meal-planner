@@ -1,0 +1,377 @@
+{
+  "mapping": {
+    "Apple Braeburn": "apple",
+    "Apple Crimson Snow": "apple",
+    "Apple Golden 1": "apple",
+    "Apple Golden 2": "apple",
+    "Apple Golden 3": "apple",
+    "Apple Granny Smith": "apple",
+    "Apple Pink Lady": "apple",
+    "Apple Red 1": "apple",
+    "Apple Red 2": "apple",
+    "Apple Red 3": "apple",
+    "Apple Red Delicious": "apple",
+    "Apple Red Yellow 1": "apple",
+    "Apple Red Yellow 2": "apple",
+    "Apricot": "apricot",
+    "Avocado": "avocado",
+    "Avocado ripe": "avocado",
+    "Banana": "banana",
+    "Banana Lady Finger": "banana",
+    "Banana Red": "banana",
+    "Beetroot": "beetroot",
+    "Blueberry": "blueberry",
+    "Cauliflower": "cauliflower",
+    "Cherry 1": "cherry",
+    "Cherry 2": "cherry",
+    "Cherry Rainier": "cherry",
+    "Cherry Wax Black": "cherry",
+    "Cherry Wax Red": "cherry",
+    "Cherry Wax Yellow": "cherry",
+    "Clementine": "orange",
+    "Corn": "corn",
+    "Corn Husk": "corn",
+    "Cucumber Ripe": "cucumber",
+    "Cucumber Ripe 2": "cucumber",
+    "Eggplant": "eggplant",
+    "Ginger Root": "ginger",
+    "Grape Blue": "grape",
+    "Grape Pink": "grape",
+    "Grape White": "grape",
+    "Grape White 2": "grape",
+    "Grape White 3": "grape",
+    "Grape White 4": "grape",
+    "Kiwi": "kiwi",
+    "Lemon": "lemon",
+    "Lemon Meyer": "lemon",
+    "Limes": "lime",
+    "Mandarine": "orange",
+    "Mango": "mango",
+    "Mango Red": "mango",
+    "Nectarine": "peach",
+    "Nectarine Flat": "peach",
+    "Onion Red": "onion",
+    "Onion Red Peeled": "onion",
+    "Onion White": "onion",
+    "Orange": "orange",
+    "Peach": "peach",
+    "Peach 2": "peach",
+    "Peach Flat": "peach",
+    "Pear": "pear",
+    "Pear 2": "pear",
+    "Pear Abate": "pear",
+    "Pear Forelle": "pear",
+    "Pear Kaiser": "pear",
+    "Pear Monster": "pear",
+    "Pear Red": "pear",
+    "Pear Stone": "pear",
+    "Pear Williams": "pear",
+    "Pepper Green": "bell_pepper",
+    "Pepper Orange": "bell_pepper",
+    "Pepper Red": "bell_pepper",
+    "Pepper Yellow": "bell_pepper",
+    "Pineapple": "pineapple",
+    "Pineapple Mini": "pineapple",
+    "Plum": "plum",
+    "Plum 2": "plum",
+    "Plum 3": "plum",
+    "Pomegranate": "pomegranate",
+    "Potato Red": "potato",
+    "Potato Red Washed": "potato",
+    "Potato Sweet": "potato",
+    "Potato White": "potato",
+    "Raspberry": "raspberry",
+    "Strawberry": "strawberry",
+    "Strawberry Wedge": "strawberry",
+    "Tangelo": "orange",
+    "Tomato 1": "tomato",
+    "Tomato 2": "tomato",
+    "Tomato 3": "tomato",
+    "Tomato 4": "tomato",
+    "Tomato Cherry Red": "tomato",
+    "Tomato Heart": "tomato",
+    "Tomato Maroon": "tomato",
+    "Tomato not Ripened": "tomato",
+    "Tomato Yellow": "tomato",
+    "Watermelon": "watermelon",
+    "Golden-Delicious": "apple",
+    "Granny-Smith": "apple",
+    "Pink-Lady": "apple",
+    "Red-Delicious": "apple",
+    "Royal-Gala": "apple",
+    "Lime": "lime",
+    "Anjou": "pear",
+    "Conference": "pear",
+    "Kaiser": "pear",
+    "Satsumas": "orange",
+    "Arla-Ecological-Medium-Fat-Milk": "milk",
+    "Arla-Lactose-Medium-Fat-Milk": "milk",
+    "Arla-Medium-Fat-Milk": "milk",
+    "Arla-Standard-Milk": "milk",
+    "Garant-Ecological-Medium-Fat-Milk": "milk",
+    "Garant-Ecological-Standard-Milk": "milk",
+    "Oatly-Oat-Milk": "milk",
+    "Oatly-Natural-Oatghurt": "yogurt",
+    "Arla-Sour-Milk": "milk",
+    "Alpro-Fresh-Soy-Milk": "milk",
+    "Alpro-Shelf-Soy-Milk": "milk",
+    "Alpro-Blueberry-Soyghurt": "yogurt",
+    "Alpro-Vanilla-Soyghurt": "yogurt",
+    "Arla-Mild-Vanilla-Yoghurt": "yogurt",
+    "Arla-Natural-Mild-Low-Fat-Yoghurt": "yogurt",
+    "Arla-Natural-Yoghurt": "yogurt",
+    "Valio-Vanilla-Yoghurt": "yogurt",
+    "Yoggi-Strawberry-Yoghurt": "yogurt",
+    "Yoggi-Vanilla-Yoghurt": "yogurt",
+    "Aubergine": "eggplant",
+    "Brown-Cap-Mushroom": "mushroom",
+    "Cabbage": "cabbage",
+    "Carrots": "carrot",
+    "Cucumber": "cucumber",
+    "Garlic": "garlic",
+    "Ginger": "ginger",
+    "Yellow-Onion": "onion",
+    "Green-Bell-Pepper": "bell_pepper",
+    "Orange-Bell-Pepper": "bell_pepper",
+    "Red-Bell-Pepper": "bell_pepper",
+    "Yellow-Bell-Pepper": "bell_pepper",
+    "Floury-Potato": "potato",
+    "Solid-Potato": "potato",
+    "Sweet-Potato": "potato",
+    "Red-Beet": "beetroot",
+    "Beef-Tomato": "tomato",
+    "Regular-Tomato": "tomato",
+    "Vine-Tomato": "tomato",
+    "Zucchini": "zucchini",
+    "Bread": "bread",
+    "Eggs": "eggs",
+    "Milk": "milk",
+    "Potato": "potato",
+    "Spinach": "spinach",
+    "Tomato": "tomato"
+  },
+  "target_classes": [
+    "apple",
+    "apricot",
+    "avocado",
+    "banana",
+    "beetroot",
+    "bell_pepper",
+    "blueberry",
+    "bread",
+    "cabbage",
+    "carrot",
+    "cauliflower",
+    "cherry",
+    "corn",
+    "cucumber",
+    "eggplant",
+    "eggs",
+    "garlic",
+    "ginger",
+    "grape",
+    "kiwi",
+    "lemon",
+    "lime",
+    "mango",
+    "milk",
+    "mushroom",
+    "onion",
+    "orange",
+    "peach",
+    "pear",
+    "pineapple",
+    "plum",
+    "pomegranate",
+    "potato",
+    "raspberry",
+    "spinach",
+    "strawberry",
+    "tomato",
+    "watermelon",
+    "yogurt",
+    "zucchini"
+  ],
+  "excluded_labels": {
+    "Arla-Ecological-Sour-Cream": [
+      "grocery"
+    ],
+    "Arla-Sour-Cream": [
+      "grocery"
+    ],
+    "Asparagus": [
+      "grocery"
+    ],
+    "Bravo-Apple-Juice": [
+      "grocery"
+    ],
+    "Bravo-Orange-Juice": [
+      "grocery"
+    ],
+    "Cactus fruit": [
+      "fruits360"
+    ],
+    "Cantaloupe": [
+      "grocery"
+    ],
+    "Cantaloupe 1": [
+      "fruits360"
+    ],
+    "Cantaloupe 2": [
+      "fruits360"
+    ],
+    "Carambula": [
+      "fruits360"
+    ],
+    "Chestnut": [
+      "fruits360"
+    ],
+    "Cocos": [
+      "fruits360"
+    ],
+    "Dates": [
+      "fruits360"
+    ],
+    "Fig": [
+      "fruits360"
+    ],
+    "Galia-Melon": [
+      "grocery"
+    ],
+    "God-Morgon-Apple-Juice": [
+      "grocery"
+    ],
+    "God-Morgon-Orange-Juice": [
+      "grocery"
+    ],
+    "God-Morgon-Orange-Red-Grapefruit-Juice": [
+      "grocery"
+    ],
+    "God-Morgon-Red-Grapefruit-Juice": [
+      "grocery"
+    ],
+    "Granadilla": [
+      "fruits360"
+    ],
+    "Grapefruit Pink": [
+      "fruits360"
+    ],
+    "Grapefruit White": [
+      "fruits360"
+    ],
+    "Guava": [
+      "fruits360"
+    ],
+    "Hazelnut": [
+      "fruits360"
+    ],
+    "Honeydew-Melon": [
+      "grocery"
+    ],
+    "Huckleberry": [
+      "fruits360"
+    ],
+    "Kaki": [
+      "fruits360"
+    ],
+    "Kohlrabi": [
+      "fruits360"
+    ],
+    "Kumquats": [
+      "fruits360"
+    ],
+    "Leek": [
+      "grocery"
+    ],
+    "Lychee": [
+      "fruits360"
+    ],
+    "Mangostan": [
+      "fruits360"
+    ],
+    "Maracuja": [
+      "fruits360"
+    ],
+    "Melon Piel de Sapo": [
+      "fruits360"
+    ],
+    "Mixed": [
+      "fridge_objects"
+    ],
+    "Mulberry": [
+      "fruits360"
+    ],
+    "Nut Forest": [
+      "fruits360"
+    ],
+    "Nut Pecan": [
+      "fruits360"
+    ],
+    "Papaya": [
+      "grocery",
+      "fruits360"
+    ],
+    "Passion Fruit": [
+      "fruits360"
+    ],
+    "Passion-Fruit": [
+      "grocery"
+    ],
+    "Pepino": [
+      "fruits360"
+    ],
+    "Physalis": [
+      "fruits360"
+    ],
+    "Physalis with Husk": [
+      "fruits360"
+    ],
+    "Pitahaya Red": [
+      "fruits360"
+    ],
+    "Pomelo Sweetie": [
+      "fruits360"
+    ],
+    "Quince": [
+      "fruits360"
+    ],
+    "Rambutan": [
+      "fruits360"
+    ],
+    "Red-Grapefruit": [
+      "grocery"
+    ],
+    "Redcurrant": [
+      "fruits360"
+    ],
+    "Salak": [
+      "fruits360"
+    ],
+    "Tamarillo": [
+      "fruits360"
+    ],
+    "Tropicana-Apple-Juice": [
+      "grocery"
+    ],
+    "Tropicana-Golden-Grapefruit": [
+      "grocery"
+    ],
+    "Tropicana-Juice-Smooth": [
+      "grocery"
+    ],
+    "Tropicana-Mandarin-Morning": [
+      "grocery"
+    ],
+    "Walnut": [
+      "fruits360"
+    ]
+  },
+  "unmapped_labels": {},
+  "metadata": {
+    "total_raw_labels": 206,
+    "total_mapped": 149,
+    "total_excluded": 57,
+    "total_unmapped": 0,
+    "total_target_classes": 40
+  }
+}

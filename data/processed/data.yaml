@@ -1,0 +1,10 @@
+# YOLOv8 Dataset Config
+# Generated for AI Meal Planner Project
+
+path: D:\Manav Konde\PROJECT\meal-planner\data\processed  # dataset root
+train: images/train
+val: images/val
+test: images/test
+
+nc: 40  # number of classes
+names: ['apple', 'apricot', 'avocado', 'banana', 'beetroot', 'bell_pepper', 'blueberry', 'bread', 'cabbage', 'carrot', 'cauliflower', 'cherry', 'corn', 'cucumber', 'eggplant', 'eggs', 'garlic', 'ginger', 'grape', 'kiwi', 'lemon', 'lime', 'mango', 'milk', 'mushroom', 'onion', 'orange', 'peach', 'pear', 'pineapple', 'plum', 'pomegranate', 'potato', 'raspberry', 'spinach', 'strawberry', 'tomato', 'watermelon', 'yogurt', 'zucchini']  # class names

@@ -3,3 +3,13 @@ venv/
 __pycache__/
 data/raw/
 .env
+.ipynb_checkpoints/
+runs/
+*.pt
+
+# Large generated datasets/artifacts
+data/quarantine/
+data/processed/images/
+data/processed/labels/
+data/processed/visualization_samples/
+results/day5_baseline/annotated_images/
