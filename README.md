@@ -94,3 +94,27 @@ Day 5 baseline testing used `yolov8n.pt` on 32 real fridge photos. COCO covered 
 ## Week 2 Preview
 
 Week 2 starts with YOLOv8 fine-tuning against `data/processed/data.yaml`, then compares fine-tuned results against the Day 5 baseline on the same real fridge images.
+
+## Week 2 Training
+
+Day 8/9 fine-tuning starts from local COCO-pretrained nano weights and writes Ultralytics artifacts to `models/checkpoints/yolov8n_fridge_v1/`.
+
+Check data readiness without starting training:
+
+```powershell
+python train_yolov8_fridge.py --dry-run
+```
+
+Launch the first training run:
+
+```powershell
+python train_yolov8_fridge.py
+```
+
+Review Day 9 progress and label the best checkpoint:
+
+```powershell
+python monitor_yolov8_training.py --copy-best
+```
+
+Training decisions and handoff notes are tracked in `docs/week2_training_log.md`.
