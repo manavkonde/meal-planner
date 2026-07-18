@@ -99,6 +99,24 @@ Week 2 starts with YOLOv8 fine-tuning against `data/processed/data.yaml`, then c
 
 Day 8/9 fine-tuning starts from local COCO-pretrained nano weights and writes Ultralytics artifacts to `models/checkpoints/yolov8n_fridge_v1/`.
 
+### Day 11 inference wrapper
+
+A reusable inference module is available at `backend/modules/detect_ingredients.py`.
+
+```python
+from backend.modules.detect_ingredients import detect_ingredients
+
+results = detect_ingredients("data/raw/test_fridges/fridge_003.jpg")
+```
+
+The function returns a list of dictionaries in the form `{item, confidence, bbox}` and raises `FileNotFoundError` for missing images.
+
+Run the Day 11 tests with:
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest -q tests/test_detect_ingredients.py
+```
+
 Check data readiness without starting training:
 
 ```powershell

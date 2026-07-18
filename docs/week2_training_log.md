@@ -73,3 +73,24 @@ python monitor_yolov8_training.py --val --copy-best
 ## Day 10 Handoff Notes
 
 Day 10 should use the final `best.pt` for full validation against the held-out split and compare against the MVP target of mAP@0.5 greater than `0.6`.
+
+## Day 11 - Inference Module Added
+
+Implemented a reusable inference wrapper in `backend/modules/detect_ingredients.py`.
+
+### What is included
+
+- `detect_ingredients(image_path, conf_threshold=0.3)` entry point
+- Model loaded once at module import time
+- Basic handling for missing files and empty detections
+- Unit tests in `tests/test_detect_ingredients.py`
+
+### Verification status
+
+The Day 11 tests were run inside a workspace-local virtual environment on the D drive:
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest -q tests/test_detect_ingredients.py
+```
+
+Result: `1 passed, 2 skipped`.
